@@ -247,6 +247,9 @@ https://rlink.vn/fpt-ttxvn
 #EXTINF:-1 tvg-id="nhan_dan_tv" group-title="VIỆT NAM" logo="https://img.nhandantv.vn//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png", Nhân Dân TV
 https://rlink.vn/fpt-nhandan
 
+#EXTINF:-1 tvg-id="vovtv" group-title="VIỆT NAM" logo="", VOV TV
+https://rlink.vn/fpt-vovtv
+
 #EXTINF:-1 group-title="VIỆT NAM" logo="https://upload.wikimedia.org/wikipedia/vi/thumb/2/22/Vietnamnet-Logo.png/190px-Vietnamnet-Logo.png", Vietnamnet
 https://rlink.vn/fpt-vietnamnet
 

@@ -1,0 +1,129 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="VTV1-VTV" group-title="VTV",VTV1 HD (HD 8Mbps)
+udp://@225.1.2.249:30120
+
+#EXTINF:-1 tvg-name="VTV2-VTV" group-title="VTV",VTV2 HD (HD 8Mbps)
+udp://@225.1.2.13:30120
+
+#EXTINF:-1 tvg-name="VTV3-VTV" group-title="VTV",VTV3 HD (HD 8Mbps)
+udp://@225.1.2.247:30120
+
+#EXTINF:-1 tvg-name="VTV6-VTV" group-title="VTV",VTV6 HD (HD 8Mbps)
+udp://@225.1.2.245:30120
+
+#-------------------HTV/HTVC-------------------#
+#EXTINF:-1 tvg-name="HTV2-ClipTV" group-title="HTV/HTVC",HTV2 Vie Channel (HD 8Mbps)
+udp://@225.1.1.193:30120
+
+#EXTINF:-1 tvg-name="HTV7 HD" group-title="HTV/HTVC",HTV7 HD (HD 8Mbps)
+udp://@225.1.1.192:30120
+
+#EXTINF:-1 tvg-name="HTV9 HD" group-title="HTV/HTVC",HTV9 HD (HD 8Mbps)
+udp://@225.1.1.190:30120
+
+#EXTINF:-1 group-title="Other",HanoiCab2 YouTV
+udp://@225.1.1.207:30120
+
+#EXTINF:-1 tvg-name="MTV" group-title="Other",MTV
+udp://@225.1.1.245:30120
+
+#-------------------Quốc tế HD-------------------#
+#EXTINF:-1 tvg-name="Animal Planet-ClipTV" group-title="Quốc Tế (HD)",Animal Planet (HD 8Mbps)
+udp://@225.1.1.231:30120
+
+#EXTINF:-1 tvg-name="Asian Food Channel" group-title="Quốc Tế (HD)",Asian Food Network (HD 8Mbps)
+udp://@225.1.1.198:30120
+
+#EXTINF:-1 tvg-name="AXN-ClipTV" group-title="Quốc Tế (HD)",AXN (HD 8Mbps)
+udp://@225.1.2.225:30120
+
+#EXTINF:-1 tvg-name="Baby TV HD-ClipTV" group-title="Quốc Tế (HD)",Baby TV (HD 8Mbps)
+udp://@225.1.2.146:30120
+
+#EXTINF:-1 tvg-name="BBC EARTH" group-title="Quốc Tế (HD)",BBC earth (HD 8Mbps)
+udp://@225.1.2.24:30120
+
+#EXTINF:-1 tvg-name="Cartoon Network" group-title="Quốc Tế (HD)",CARTOON NETWORK (HD 8Mbps)
+udp://@225.1.2.231:30120
+
+#EXTINF:-1 tvg-name="Channel V HD-ClipTV" group-title="Quốc Tế (HD)",[V] HD (HD 8Mbps)
+udp://@225.1.1.188:30120
+
+#EXTINF:-1 tvg-name="CINEMA WORLD" group-title="Quốc Tế (HD)",Cinema World (HD 8Mbps)
+udp://@225.1.1.142:30120
+
+#EXTINF:-1 tvg-name="Max by HBO" group-title="Quốc Tế (HD)",CINEMAX (HD 8Mbps)
+udp://@225.1.2.86:30120
+
+#EXTINF:-1 tvg-name="Discovery Asia-ClipTV" group-title="Quốc Tế (HD)",Discovery Asia (HD 8Mbps)
+udp://@225.1.2.223:30120
+
+#EXTINF:-1 tvg-name="Discovery Channel-ClipTV" group-title="Quốc Tế (HD)",Discovery Channel (HD 8Mbps)
+udp://@225.1.1.238:30120
+
+#EXTINF:-1 tvg-name="Disney" group-title="Quốc Tế (HD)",Disney Channel (HD 8Mbps)
+udp://@225.1.2.158:30120
+
+#EXTINF:-1 tvg-name="Disney Junior" group-title="Quốc Tế (HD)",Disney Junior (HD 8Mbps)
+udp://@225.1.1.233:30120
+
+#EXTINF:-1 tvg-name="Fashion TV HD" group-title="Quốc Tế (HD)",Fashion TV (HD 8Mbps)
+udp://@225.1.2.227:30120
+
+#EXTINF:-1 tvg-name="Fox HD-ClipTV" group-title="Quốc Tế (HD)",FOX HD (HD 8Mbps)
+udp://@225.1.1.51:30120
+
+#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
+udp://@225.1.2.237:30120
+
+#EXTINF:-1 tvg-name="Fox Movies HD-ClipTV" group-title="Quốc Tế (HD)",FOX MOVIES (HD 8Mbps)
+udp://@225.1.2.239:30120
+
+#EXTINF:-1 tvg-name="FOX SPORTS-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS (HD 8Mbps)
+udp://@225.1.2.229:30120
+
+#EXTINF:-1 tvg-name="FOX SPORTS 2-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS 2 (HD 8Mbps)
+udp://@225.1.1.141:30120
+
+#EXTINF:-1 tvg-name="FOX SPORTS 3-ClipTV" group-title="Quốc Tế (HD)",FOX SPORTS 3 (HD 8Mbps)
+udp://@225.1.2.242:30120
+
+#EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)",HBO (HD 8Mbps)
+udp://@225.1.2.233:30120
+
+#EXTINF:-1 tvg-name="HBO" group-title="Quốc Tế (HD)",HBO (HD 12Mbps)
+udp://@225.1.4.90:30120
+
+#EXTINF:-1 tvg-name="KIX" group-title="Quốc Tế (HD)",KIX (HD 8Mbps)
+udp://@225.1.2.144:30120
+
+#EXTINF:-1 tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+udp://@225.1.2.235:30120
+
+#EXTINF:-1 tvg-name="NHK World-Japan(HD)" group-title="Quốc Tế (HD)",NHK WORLD JAPAN (HD 8Mbps)
+udp://@225.1.1.47:30120
+
+#EXTINF:-1 tvg-name="Outdoor Channel (HD)" group-title="Quốc Tế (HD)",Outdoor Channel (HD 8Mbps)
+udp://@225.1.2.215:30120
+
+#EXTINF:-1 tvg-name="RED BY HBO" group-title="Quốc Tế (HD)",RED BY HBO (HD 8Mbps)
+udp://@225.1.1.93:30120
+
+#EXTINF:-1 tvg-name="Travel & Living (TLC)" group-title="Quốc Tế (HD)",TLC (HD 8Mbps)
+udp://@225.1.1.236:30120
+
+#EXTINF:-1 tvg-name="WARNER TV" group-title="Quốc Tế (HD)",WBTV (HD 8Mbps)
+udp://@225.1.1.139:30120
+
+#EXTINF:-1 tvg-name="Channel V HD-ClipTV" group-title="Quốc Tế (HD)",[V] HD (HD 4Mbps)
+udp://@225.1.4.30:30120
+
+#EXTINF:-1 tvg-name="Da Vinci" group-title="Quốc Tế (HD)",Da Vinci (HD 4Mbps)
+udp://@225.1.4.38:30120
+
+#EXTINF:-1 tvg-name="Fox Life HD-ClipTV" group-title="Quốc Tế (HD)",FOX life (HD 8Mbps)
+udp://@225.1.4.32:30120
+
+#EXTINF:-1 tvg-name="National Geographic HD-ClipTV" group-title="Quốc Tế (HD)",NATIONAL GEOGRAPHIC HD (HD 8Mbps)
+udp://@225.1.4.31:30120

@@ -3,39 +3,39 @@
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1
 
 #EXTINF:-1 tvg-id="VTV1-VTV" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1 HD Kênh Thời Sự
-https://livecdn.fptplay.net/hda/vtv1hd_hls.smil/chunklist_b2500000.m3u8
+https://rlink.vn/fpt-vtv1
  
  
 #EXTINF:-1 tvg-id="VTV2-VTV" tvg-name="VTV2 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png",VTV2 HD Kênh Khoa Học-Giáo Dục
-https://livecdn.fptplay.net/hda/vtv2_hls.smil/chunklist_b2500000.m3u8
+https://rlink.vn/fpt-vtv2
  
  
 #EXTINF:-1 tvg-id="VTV3-VTV" tvg-name="VTV3 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 HD Giải trí tổng hợp
-https://livecdn.fptplay.net/hda/vtv3hd_hls.smil/chunklist_b2500000.m3u8
+https://rlink.vn/fpt-vtv3
  
  
 #EXTINF:-1 tvg-id="VTV4-VTV" tvg-name="VTV4 HD"  group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png",VTV4 HD Đối ngoại Quốc gia
-https://livecdn.fptplay.net/hda/vtv4_hls.smil/chunklist_b2500000.m3u8
+https://rlink.vn/fpt-vtv4
  
  
 #EXTINF:-1 tvg-id="VTV5-VTV" tvg-name="VTV5 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png",VTV5 HD Dân tộc thiểu số
-https://livecdn.fptplay.net/hda/vtv5hd_hls.smil/chunklist_b2500000.m3u8
+https://rlink.vn/fpt-vtv5
  
  
 #EXTINF:-1 tvg-id="VTV6-VTV" tvg-name="VTV6 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png",VTV6 HD Thanh thiếu niên
-https://livecdn.fptplay.net/hda/vtv6hd_hls.smil/chunklist_b2500000.m3u8
+https://rlink.vn/fpt-vtv6
  
  
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD-ClipTV" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",VTV7 HD Giáo dục quốc gia
-https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+https://rlink.vn/fpt-vtv7
  
  
 #EXTINF:-1 tvg-id="VTV8-VTV" tvg-name="VTV8 HD"  group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/685px-VTV8_logo_2016_final.svg.png",VTV8 HD Miền Trung - Tây Nguyên
-https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+https://rlink.vn/fpt-vtv8
  
  
 #EXTINF:-1 tvg-id="VTV9-VTV" tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9e/VTV9_HD.png",VTV9 HD Nam Bộ
-https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
+https://rlink.vn/fpt-vtv9
  
 #EXTINF:-1 tvg-id="hanoitv1" group-title="TH Hà Nội" logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png", Hà Nội1 HD
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8

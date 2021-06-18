@@ -460,8 +460,28 @@ https://rlink.vn/fpt-animalplanet
 
 #EXTINF:-1 tvg-id="Travel - Living (TLC)" group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/TLC-Logo_2016.svg/379px-TLC-Logo_2016.svg.png", TLC Du lịch cuộc sống
 https://rlink.vn/fpt-travelliving
-#EXTINF:-1 tvg-id="TTTTTTT" group-title="WORLD TV" logo="", TTTT
-https://rlink.vn/TTTTTTT
+
+#EXTINF:-1 tvg-id="TTTTTTT" group-title="LIVE TV" logo="", FPT LIVE 1
+https://rlink.vn/fpt-live1
+#EXTINF:-1 tvg-id="TTTTTTT" group-title="LIVE TV" logo="", FPT LIVE 2
+https://rlink.vn/fpt-live2
+#EXTINF:-1 tvg-id="TTTTTTT" group-title="LIVE TV" logo="", FPT LIVE 3
+https://rlink.vn/fpt-live3
+#EXTINF:-1 tvg-id="TTTTTTT" group-title="LIVE TV" logo="", FPT LIVE 4
+https://rlink.vn/fpt-live4
+#EXTINF:-1 tvg-id="TTTTTTT" group-title="LIVE TV" logo="", FPT LIVE 5
+https://rlink.vn/fpt-live5
+
+#EXTINF:-1 tvg-id="TTTTTTT" group-title="LIVE TV" logo="", LIVE 1
+https://rlink.vn/live1
+#EXTINF:-1 tvg-id="TTTTTTT" group-title="LIVE TV" logo="", LIVE 2
+https://rlink.vn/live2
+#EXTINF:-1 tvg-id="TTTTTTT" group-title="LIVE TV" logo="", LIVE 3
+https://rlink.vn/live3
+#EXTINF:-1 tvg-id="TTTTTTT" group-title="LIVE TV" logo="", LIVE 4
+https://rlink.vn/live4
+#EXTINF:-1 tvg-id="TTTTTTT" group-title="LIVE TV" logo="", LIVE 5
+https://rlink.vn/live5
 
 #EXTINF:-1 group-title="TH ĐỊA PHƯƠNG" logo="https://vignette.wikia.nocookie.net/logos/images/5/57/ATV_An_Giang.png/revision/latest/scale-to-width-down/340?cb=20200611111200&path-prefix=vi", An Giang
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8

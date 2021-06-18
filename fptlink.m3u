@@ -37,6 +37,25 @@ https://rlink.vn/fpt-vtv8
 #EXTINF:-1 tvg-id="VTV9-VTV" tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9e/VTV9_HD.png",VTV9 HD Nam Bộ
 https://rlink.vn/fpt-vtv9
  
+ #EXTINF:-1 tvg-id="VTV1-VTV" group-title="VTV" tvg-logo="http://vthanh.live/ic/1.png", VTV1 HD || 1080P
+http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8
+#EXTINF:-1 tvg-id="VTV2-VTV" group-title="VTV" tvg-logo="http://vthanh.live/ic/2.png", VTV2 HD || 1080P
+http://drfamaga5qliv.vcdn.cloud/vtv02/vtv02@1080p.m3u8
+#EXTINF:-1 tvg-id="VTV3-VTV" group-title="VTV" tvg-logo="http://vthanh.live/ic/3.png", VTV3 HD || 1080P
+http://drfamaga5qliv.vcdn.cloud/vtv03/vtv03@1080p.m3u8
+#EXTINF:-1 tvg-id="VTV4-VTV" group-title="VTV" tvg-logo="http://vthanh.live/ic/4.png", VTV4 HD || 1080P
+http://drfamaga5qliv.vcdn.cloud/vtv04/vtv04@1080p.m3u8
+#EXTINF:-1 tvg-id="VTV5-VTV" group-title="VTV" tvg-logo="http://vthanh.live/ic/5.png", VTV5 HD || 1080P
+http://drfamaga5qliv.vcdn.cloud/vtv05/vtv05@1080p.m3u8
+#EXTINF:-1 tvg-id="VTV6-VTV" group-title="VTV" tvg-logo="http://vthanh.live/ic/8.png", VTV6 HD || 1080P
+http://drfamaga5qliv.vcdn.cloud/vtv06/vtv06@1080p.m3u8
+#EXTINF:-1 tvg-id="VTV7-VTV" group-title="VTV" tvg-logo="http://vthanh.live/ic/9.png", VTV7 HD || 1080P
+http://drfamaga5qliv.vcdn.cloud/vtv07/vtv07@1080p.m3u8
+#EXTINF:-1 tvg-id="VTV8-VTV" group-title="VTV" tvg-logo="http://vthanh.live/ic/10.png", VTV8 HD || 1080P
+http://drfamaga5qliv.vcdn.cloud/vtv08/vtv08@1080p.m3u8
+#EXTINF:-1 tvg-id="VTV9-VTV" group-title="VTV" tvg-logo="http://vthanh.live/ic/11.png", VTV9 HD || 1080P
+http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
+ 
 #EXTINF:-1 tvg-id="hanoitv1" group-title="TH Hà Nội" logo="https://upload.wikimedia.org/wikipedia/vi/6/6a/Hanoitv.png", Hà Nội1 HD
 https://rlink.vn/fpt-hn1
 

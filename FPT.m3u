@@ -223,7 +223,7 @@ https://livecdn.fptplay.net:443/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net:443/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
  
 #EXTINF:-1 tvg-id="HTV9-ClipTV" group-title="HTVC" tvg-logo="https://lh3.googleusercontent.com/-t9EkbjC6IGw/VpxAhVGPyvI/AAAAAAAAANk/CGPKLqKcsZ4/h120/htv9.png" tvg-name="HTV9 HD",HTV9 HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV9-HD-1080p/chunks.m3u8
+https://livecdn.fptplay.net:443/hda1/htv9hd_hls.smil/chunklist_b2500000.m3u8
  
  #EXTINF:-1 tvg-id="THVL1 HD" group-title="HTVC" logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d2/THVL_Logo.png/130px-THVL_Logo.png", THVL1 HD
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
@@ -420,7 +420,7 @@ https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="FASHION TV" group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fashion_TV_Channel_logo.svg/180px-Fashion_TV_Channel_logo.svg.png", Fashion TV Thời trang Quốc tế
 https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="cartoonhd" group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png", Cartoon Network Hoạt hình-Trẻ em
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/playlist.m3u8
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Boomerang" group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png", Boomerang Giải trí Thiếu nhi
 https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Baby TV HD-ClipTV" group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png", Baby First

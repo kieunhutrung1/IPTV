@@ -163,18 +163,18 @@ https://livecdn.fptplay.net:443/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net:443/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png" group-title="HTVC", HTVC Plus
 https://livecdn.fptplay.net:443/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="QUOC HOI" group-title="VIỆT NAM", Quốc Hội
-https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="QUOC PHONG VIET NAM HD" group-title="VIỆT NAM", QPVN
-https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="ANTV" group-title="VIỆT NAM", ANTV
 https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="ttxvn" group-title="VIỆT NAM", VNEWS
-https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="nhan_dan_tv" group-title="VIỆT NAM", Nhân Dân TV
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="QUOC PHONG VIET NAM HD" group-title="VIỆT NAM", QPVN
+https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="QUOC HOI" group-title="VIỆT NAM", Quốc Hội
+https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="VIỆT NAM", Vietnamnet
 https://livecdn.fptplay.net/sda/vietnamnet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="ttxvn" group-title="VIỆT NAM", VNEWS
+https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="vtvcab1_giai_tri_tv" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/VCTV1_old_and_VTVCab_1_-_Gi%E1%BA%A3i_Tr%C3%AD_TV_%282013-2016%29.png/revision/latest/scale-to-width-down/340?cb=20191018085426" group-title="VTVcab", VTVcab1 - Vie Giải Trí
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab1_SD_4/chunklist_b2692000.m3u8
 #EXTINF: -1 tvg-id="VTVcab 2 - Phim Việt" tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab2-phim-vi%E1%BB%87t.png" group-title="VTVcab", VTVcab2 - Phim Việt
@@ -235,90 +235,88 @@ http://171.241.71.220:8381/udp/225.1.2.233:30120
 http://171.241.71.220:8381/udp/225.1.1.93:30120
 #EXTINF: -1 tvg-id="Max By HBO" group-title="HBO", Max By HBO HD
 http://171.241.71.220:8381/udp/225.1.1.93:30120
-#EXTINF: -1 tvg-id="Cinemax" tvg-logo="https://i.ibb.co/sCyb2j3/BEARTVQR.jpg" group-title="WORLD TV", ANIMAX
+#EXTINF: -1 tvg-id="channel_v" group-title="WORLD TV", [V] HD Su hướng âm nhạc
+https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="ABC AUSTRALIA" group-title="WORLD TV", ABC Australia Giải trí giáo dục
+https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="Animal Planet-ClipTV" group-title="WORLD TV", Animal Planet Thế giới động vật
+https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/2560px-Animax_logo.svg.png" group-title="WORLD TV", ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-id="arirang" tvg-name="Arirang" group-title="WORLD TV", Arirang Quốc tế Hàn Quốc
+https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="Asian Food Channel" group-title="WORLD TV", Asian Food Channel
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="axnhd" group-title="WORLD TV", AXN Giải trí quốc tế
+https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="Baby TV HD-ClipTV" group-title="WORLD TV", Baby First
+https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="BBC EARTH" group-title="WORLD TV", BBC Earth Thế giới Thiên nhiên
+https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="BBC LIFESTYLE" group-title="WORLD TV", BBC Lifestyle Ý tưởng cuộc sống
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-id="BBC World News" tvg-name="BBC WORLD NEWS" group-title="WORLD TV", BBC World News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-id="BLOOMBERG" group-title="WORLD TV", Bloomberg Tài chính-Kinh Doanh
+https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="WORLD TV", Blue Ant Entertainment
 https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 group-title="WORLD TV", Blue Ant Extreme
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 tvg-id="fox_movies" group-title="WORLD TV", Fox Movies Bom tấn Hollywood
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="Fox Family Movies HD-ClipTV" group-title="WORLD TV", Fox Family Movies
-https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="kix_hd" tvg-name="KIX HD" group-title="WORLD TV", KIX HD Hành động-Giải trí
-https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 tvg-id="Fox Life HD-ClipTV" group-title="WORLD TV", Fox Life Giải trí tổng hợp
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="Fox HD-ClipTV" group-title="WORLD TV", Fox HD Hay nhất-Mới nhất
-https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="channel_v" group-title="WORLD TV", [V] HD Su hướng âm nhạc
-https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="Asian Food Channel" group-title="WORLD TV", Asian Food Channel
-https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 tvg-id="davinci" group-title="WORLD TV", Da Vinci Kho tàng giáo dục
-https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 tvg-id="KBS World-ClipTV" group-title="WORLD TV", KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="NHK World" group-title="WORLD TV", NHK World Japan
-https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 tvg-id="dw" tvg-name="DW" group-title="WORLD TV", DW Kênh Quốc gia Đức
-https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 tvg-id="arirang" tvg-name="Arirang" group-title="WORLD TV", Arirang Quốc tế Hàn Quốc
-https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="Boomerang" group-title="WORLD TV", Boomerang Giải trí Thiếu nhi
+https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="cartoonhd" group-title="WORLD TV", Cartoon Network Hoạt hình-Trẻ em
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="WORLD TV", Channel NewsAsia
 https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="France 24-ClipTV" group-title="WORLD TV", France 24 Thời sự Quốc tế
-https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title="WORLD TV", TV5 Monde Tin tức-Tổng Hợp
-https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="National Geographic HD-ClipTV" group-title="WORLD TV", National Geographic HD Khoa học-Khám phá
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="outdoor_channel" group-title="WORLD TV", Outdoor Channel Giải Trí tổng hợp
-https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF: -1 tvg-id="foxsportshd" group-title="WORLD TV", Fox Sports Thể thao Quốc tế
-https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-id="CINEMA WORLD" group-title="WORLD TV", Cinema World Điện ảnh Quốc tế
+https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="CNN-ClipTV" group-title="WORLD TV", CNN Tin tức Quốc tế
+https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="davinci" group-title="WORLD TV", Da Vinci Kho tàng giáo dục
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="Discovery Asia-ClipTV" group-title="WORLD TV", Discovery Asia Khoa học Công nghệ
+https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="discoveryhd" group-title="WORLD TV", Discovery Khoa học công nghệ
+https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="dw" tvg-name="DW" group-title="WORLD TV", DW Kênh Quốc gia Đức
+https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="FASHION TV" group-title="WORLD TV", Fashion TV Thời trang Quốc tế
+https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="Fox Family Movies HD-ClipTV" group-title="WORLD TV", Fox Family Movies
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="Fox HD-ClipTV" group-title="WORLD TV", Fox HD Hay nhất-Mới nhất
+https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="Fox Life HD-ClipTV" group-title="WORLD TV", Fox Life Giải trí tổng hợp
+https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="fox_movies" group-title="WORLD TV", Fox Movies Bom tấn Hollywood
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="foxsports2hd" group-title="WORLD TV", Fox Sports 2 Thể thao Quốc tế
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-id="fox_sports3" group-title="WORLD TV", Fox Sports 3 Thể thao Quốc tế
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="axnhd" group-title="WORLD TV", AXN Giải trí quốc tế
-https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="warner_tv_hd" group-title="WORLD TV", WBTV Phim mỹ-Hãng WARNER BROS
-https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="CINEMA WORLD" group-title="WORLD TV", Cinema World Điện ảnh Quốc tế
-https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="FASHION TV" group-title="WORLD TV", Fashion TV Thời trang Quốc tế
-https://livecdn.fptplay.net/qnetlive/fashiontvhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="cartoonhd" group-title="WORLD TV", Cartoon Network Hoạt hình-Trẻ em
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="Boomerang" group-title="WORLD TV", Boomerang Giải trí Thiếu nhi
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="Baby TV HD-ClipTV" group-title="WORLD TV", Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="CNN-ClipTV" group-title="WORLD TV", CNN Tin tức Quốc tế
-https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="BBC EARTH" group-title="WORLD TV", BBC Earth Thế giới Thiên nhiên
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="BBC World News" tvg-name="BBC WORLD NEWS" group-title="WORLD TV", BBC World News
-https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-id="BBC LIFESTYLE" group-title="WORLD TV", BBC Lifestyle Ý tưởng cuộc sống
-https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
-#EXTINF: -1 tvg-id="BLOOMBERG" group-title="WORLD TV", Bloomberg Tài chính-Kinh Doanh
-https://livecdn.fptplay.net/qnetlive/bloomberg_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="ABC AUSTRALIA" group-title="WORLD TV", ABC Australia Giải trí giáo dục
-https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="discoveryhd" group-title="WORLD TV", Discovery Khoa học công nghệ
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="Discovery Asia-ClipTV" group-title="WORLD TV", Discovery Asia Khoa học Công nghệ
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 tvg-id="Animal Planet-ClipTV" group-title="WORLD TV", Animal Planet Thế giới động vật
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="foxsportshd" group-title="WORLD TV", Fox Sports Thể thao Quốc tế
+https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
+#EXTINF: -1 tvg-id="France 24-ClipTV" group-title="WORLD TV", France 24 Thời sự Quốc tế
+https://livecdn.fptplay.net/world/france24_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="KBS World-ClipTV" group-title="WORLD TV", KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="kix_hd" tvg-name="KIX HD" group-title="WORLD TV", KIX HD Hành động-Giải trí
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="National Geographic HD-ClipTV" group-title="WORLD TV", National Geographic HD Khoa học-Khám phá
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="NHK World" group-title="WORLD TV", NHK World Japan
+https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="outdoor_channel" group-title="WORLD TV", Outdoor Channel Giải Trí tổng hợp
+https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="Travel - Living (TLC)" group-title="WORLD TV", TLC Du lịch cuộc sống
 https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 group-title="WORLD TV", TV5 Monde Tin tức-Tổng Hợp
+https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="warner_tv_hd" group-title="WORLD TV", WBTV Phim mỹ-Hãng WARNER BROS
+https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", An Giang
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
-#EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Vũng Tàu
-https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Bắc Giang
 https://livecdn.fptplay.net/sdc/bacgiang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Bạc Liêu
@@ -327,20 +325,20 @@ https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/bacninh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Bến Tre
 https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Bình Định
-https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Bình Dương1
 https://livecdn.fptplay.net/hda/btv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Bình Dương2
 https://livecdn.fptplay.net/hda/btv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Bình Định
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Bình Phước1
 https://livecdn.fptplay.net/sdc/binhphuoc1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Bình Phước2
 https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
-#EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", BTV6 Bình thuận
-https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Bình Thuận
 https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", BTV6 Bình thuận
+https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Cà Mau
 https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Cần Thơ
@@ -427,5 +425,7 @@ https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Vĩnh Phúc
 https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 group-title="TH ĐỊA PHƯƠNG", Vũng Tàu
+https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://mytv.com.vn/upload/channel/211.png" group-title="TH ĐỊA PHƯƠNG", Yên Bái
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8

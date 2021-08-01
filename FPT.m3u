@@ -211,7 +211,7 @@ https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="htv1" group-title="HTVC" tvg-logo="https://lh3.googleusercontent.com/-jPTxx7ijNW0/VpxAfun8fzI/AAAAAAAAANU/Z9gByBFi8po/h120/htv1.png" tvg-name="HTV1",HTV1 Thông tin công cộng
 https://livecdn.fptplay.net:443/sdb/htv1_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="htv2" group-title="HTVC" tvg-logo="https://lh3.googleusercontent.com/-kjC72CWJ-QI/VpxAf0RmaOI/AAAAAAAAANY/aZX34auMMng/h120/htv2.png",HTV2 HD Giải trí tổng hợp
-https://livecdn.fptplay.net:443/hda/htv2hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="htv3" group-title="HTVC" tvg-logo="https://lh3.googleusercontent.com/-gQZJ8wcwVGA/VpxAgED0tmI/AAAAAAAAANQ/SKQS47ZxOuk/h120/htv3.png" tvg-name="HTV3",HTV3 Thiếu Niên-Nhi đồng
 https://livecdn.fptplay.net:443/sdb/htv3_2000.stream/chunklist.m3u8
@@ -220,10 +220,10 @@ https://livecdn.fptplay.net:443/sdb/htv3_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net:443/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
  
 #EXTINF:-1 tvg-id="htv7hd" group-title="HTVC" tvg-logo="https://lh3.googleusercontent.com/-OFVARyzqrp4/VpxAhO6A6AI/AAAAAAAAANg/_AL8upxPg-s/h120/htv7.png" tvg-name="HTV7" ,HTV7 Kênh tổng hợp
-https://livecdn.fptplay.net:443/hda/htv7hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="HTV9-ClipTV" group-title="HTVC" tvg-logo="https://lh3.googleusercontent.com/-t9EkbjC6IGw/VpxAhVGPyvI/AAAAAAAAANk/CGPKLqKcsZ4/h120/htv9.png" tvg-name="HTV9 HD",HTV9 HD
-https://livecdn.fptplay.net:443/hda1/htv9hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
  
  #EXTINF:-1 tvg-id="THVL1 HD" group-title="HTVC" logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d2/THVL_Logo.png/130px-THVL_Logo.png", THVL1 HD
 https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
@@ -235,16 +235,16 @@ https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 
 #EXTINF:-1 tvg-id="HTVC THUAN VIET HD" group-title="HTVC" tvg-logo="https://lh3.googleusercontent.com/-oqNHnx9J_Fg/VpxAj5NN6OI/AAAAAAAAAOM/FL-6rR5-qQs/h120/htvthuanviet.png" ,HTVC Thuần Việt
-https://livecdn.fptplay.net:443/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/htvcthuanviet_hls.smil/chunklist_b2500000.m3u
  
 #EXTINF:-1 tvg-id="HTVC THUAN VIET HD" group-title="HTVC" tvg-logo="https://lh3.googleusercontent.com/-oqNHnx9J_Fg/VpxAj5NN6OI/AAAAAAAAAOM/FL-6rR5-qQs/h120/htvthuanviet.png" ,HTVC Thuần Việt HD
-https://livecdn.fptplay.net:443/hda/htvcthuanviethd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="HTVC PHU NU HD" group-title="HTVC" tvg-logo="https://i.imgur.com/HRNmZdU.png" ,HTVC Phụ Nữ
 https://livecdn.fptplay.net:443/hda/htvcphunu_2000.stream/chunklist.m3u8
  
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://i.imgur.com/pAqskAN.png" ,HTVC Phim HD
-https://livecdn.fptplay.net:443/hda/htvcmoviehd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 group-title="HTVC" tvg-logo="https://lh3.googleusercontent.com/-2pXIrXYBFu8/VpxAhplRRnI/AAAAAAAAANw/8ounGrKt0aw/h120/htvcanhac.png" ,HTVC Ca Nhạc
 https://livecdn.fptplay.net:443/sdb/htvcmusic_hls.smil/chunklist_b2500000.m3u8
@@ -368,15 +368,15 @@ http://171.241.71.220:8381/udp/225.1.1.93:30120
 #EXTINF:-1 tvg-id="Cinemax" group-title="WORLD TV" tvg-logo="https://i.ibb.co/sCyb2j3/BEARTVQR.jpg" ,ANIMAX
 https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_ant_entertainment_logo.png/220px-Blue_ant_entertainment_logo.png" group-title="WORLD TV", Blue Ant Entertainment
-https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="WORLD TV", Blue Ant Extreme
-https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="fox_movies" group-title="WORLD TV" logo="https://rsstv.gviet.vn/sctv/157/449/1564484847562.png", Fox Movies Bom tấn Hollywood
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Fox Family Movies HD-ClipTV" group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/commons/5/57/Fox_Family_Movies_logo.png", Fox Family Movies
 https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="WORLD TV" tvg-id="kix_hd" tvg-name="KIX HD" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/300px-KIX_logo.svg.png", KIX HD Hành động-Giải trí
-https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="Fox Life HD-ClipTV" group-title="WORLD TV" logo="https://rsstv.gviet.vn/sctv/157/449/1564485120978.png", Fox Life Giải trí tổng hợp
 https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Fox HD-ClipTV" group-title="WORLD TV" logo="https://rsstv.gviet.vn/sctv/159/493/1584929321352.png", Fox HD Hay nhất-Mới nhất
@@ -384,15 +384,15 @@ https://livecdn.fptplay.net/foxlive/foxhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="channel_v" group-title="WORLD TV" logo="https://lh3.googleusercontent.com/-Iy26GhlK6p4/XRw9AyUkSTI/AAAAAAAAE04/JyXZUh1QaT40Oz_-SOBJcQ8xT5C9atthACLcBGAs/h120/200px-Channel_V_Logo.svg.png", [V] HD Su hướng âm nhạc
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="Asian Food Channel" group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/440px-Asian_Food_Network.svg.png", Asian Food Channel
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="davinci" group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Da_Vinci_Kids_logo.svg/440px-Da_Vinci_Kids_logo.svg.png", Da Vinci Kho tàng giáo dục
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="KBS World-ClipTV" group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/500px-KBS_World_%282009%29.svg.png", KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="NHK World"group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/440px-NHK_World.svg.png", NHK World Japan
-https://livecdn.fptplay.net/world/nhkworld_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="dw" tvg-name="DW" group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/220px-Deutsche_Welle_Logo.svg.png", DW Kênh Quốc gia Đức
-https://livecdn.fptplay.net/world/dwenglish_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="arirang" tvg-name="Arirang" group-title="WORLD TV" logo="https://imgstatic.vtvcab.vn/logos/ARI_M.png", Arirang Quốc tế Hàn Quốc
 https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/440px-Channel_NewsAsia_logo_%28shape_only%29.svg.png", Channel NewsAsia 
@@ -404,7 +404,7 @@ https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="National Geographic HD-ClipTV"group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/640px-National_Geographic_Channel.svg.png", National Geographic HD Khoa học-Khám phá
 https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-id="outdoor_channel" group-title="WORLD TV" logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png", Outdoor Channel Giải Trí tổng hợp
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="foxsportshd" group-title="WORLD TV" logo="https://lh3.googleusercontent.com/-Xjs9Qakw1jM/VpxAceXGRnI/AAAAAAAAAL8/w8HYqpNLtwk/h120/foxsport.png", Fox Sports Thể thao Quốc tế
 https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-id="foxsports2hd" group-title="WORLD TV" logo="https://lh3.googleusercontent.com/-N2E4FOnJamc/VpxAck8k9LI/AAAAAAAAAMA/vFwarUTotX8/h120/foxsport2.png", Fox Sports 2 Thể thao Quốc tế

@@ -27,15 +27,15 @@ https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
  
  
 #EXTINF:-1 tvg-id="vtv7hd" tvg-name="VTV7 HD-ClipTV" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png",VTV7 HD Giáo dục quốc gia
-https://livecdn.fptplay.net/hda/vtv7hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
  
  
 #EXTINF:-1 tvg-id="VTV8-VTV" tvg-name="VTV8 HD"  group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/685px-VTV8_logo_2016_final.svg.png",VTV8 HD Miền Trung - Tây Nguyên
-https://livecdn.fptplay.net/hda/vtv8hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
  
  
 #EXTINF:-1 tvg-id="VTV9-VTV" tvg-name="VTV9 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9e/VTV9_HD.png",VTV9 HD Nam Bộ
-https://livecdn.fptplay.net/hda/vtv9_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
  
 #EXTINF:-1 tvg-id="VTV1-VTV" group-title="VTV" tvg-logo="http://vthanh.live/ic/1.png", VTV1 HD || 1080P
 http://drfamaga5qliv.vcdn.cloud/vtv01/vtv01@1080p.m3u8

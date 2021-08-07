@@ -2,5 +2,5 @@
 
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1
 
-#EXTINF: -1 tvg-id="VTV1-VTV" tvg-name="VTV1 HD" group-title="VTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png", VTV1 HD Kênh Thời Sự
+#EXTINF: -1 tvg-id="VTV1-VTV" tvg-name="VTV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png" group-title="VTV", VTV1 HD Kênh Thời Sự
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8

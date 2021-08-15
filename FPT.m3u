@@ -344,7 +344,7 @@ http://220.158.149.14:9999/live/TV00000000000000000106@HHZT;LIVE
 https://ja0ytqfmrnliv.vcdn.cloud/e57170bbb28c5461730704c6c64f09fb/1629047991564/rchtwtx/rchtwtx@720p.m3u8
 
 #EXTINF:-1 tvg-id="K+1-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png", K+1 HD (QKV)
-https://live.quangkv.com/vieon/kns.m3u8
+https://ja0ytqfmrnliv.vcdn.cloud/e57170bbb28c5461730704c6c64f09fb/1629047991564/rchtwtx/rchtwtx@720p.m3u8
 
 #EXTINF:-1 tvg-id="K+1-HD" group-title="K+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/K%2B1_HD.png", K+1 HD (DRM)
 http://171.241.71.220:8381/udp/225.1.1.5:30120

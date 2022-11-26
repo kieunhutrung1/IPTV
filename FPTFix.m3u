@@ -242,6 +242,8 @@ https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 http://171.241.71.220:8381/udp/225.1.1.93:30120
 #EXTINF: -1 tvg-id="Max By HBO" tvg-logo="https://imgur.com/76pIxyD.png" group-title="HBO", Max By HBO HD
 http://171.241.71.220:8381/udp/225.1.1.93:30120
+#EXTINF: -1 tvg-id="Max By HBO" tvg-logo="https://www.mtv.com/png/mtv_2021_logo.png" group-title="WORLD TV", MTV
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="channel_v" tvg-logo="https://lh3.googleusercontent.com/-Iy26GhlK6p4/XRw9AyUkSTI/AAAAAAAAE04/JyXZUh1QaT40Oz_-SOBJcQ8xT5C9atthACLcBGAs/h120/200px-Channel_V_Logo.svg.png" group-title="WORLD TV", [V] HD Su hướng âm nhạc
 https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="ABC AUSTRALIA" tvg-logo="https://www.pngfind.com/pngs/m/258-2582008_no-logo-abc-australia-logo-png-transparent-png.png" group-title="WORLD TV", ABC Australia Giải trí giáo dục

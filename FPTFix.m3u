@@ -42,22 +42,26 @@ http://drfamaga5qliv.vcdn.cloud/vtv09/vtv09@1080p.m3u8
 https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="hanoitv2" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/c/cb/HanoiTV2_%282016-present%29.png/revision/latest/scale-to-width-down/340?cb=20191018081605" group-title="TH Hà Nội", Hà Nội2 HD
 https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="hanoitv1" tvg-logo="https://i.imgur.com/eIbgrWr.png" group-title="TH Hà Nội", HANOICab1 Hi TV
+https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
+#EXTINF: -1 tvg-id="hanoitv1" tvg-logo="http://youtv.vn/images/logo.png" group-title="TH Hà Nội", HANOICab2 YouTV 
+https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b1200000.m3u8
 #EXTINF: -1 tvg-id="VTC1-ClipTV" tvg-name="VTC1 HD" tvg-logo="https://i.imgur.com/4Uljs81.png" group-title="VTC", VTC1 Kênh tổng Hợp
-https://livecdn.fptplay.net:443/sdb/vtc1_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="vtc2" tvg-name="VTC2 HD" tvg-logo="https://i.imgur.com/80JNlos.png" group-title="VTC", VTC2 Công nghệ-Truyền thông
-https://livecdn.fptplay.net:443/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="VTC3HD-ClipTV" tvg-name="VTC3 HD" tvg-logo="http://sohanews.sohacdn.com/thumb_w/660/2018/8/22/photo1534926118469-15349261184691509134866.png" group-title="VTC", VTC3 Thể thao
-https://livecdn.fptplay.net:443/hda/vtc3hd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="vtc4_yeah1_family" tvg-name="VTC4 HD" tvg-logo="https://i.imgur.com/v9DNS85.png" group-title="VTC", VTC4 Yeah1 !  Family
-https://livecdn.fptplay.net:443/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="VTC5-ClipTV" tvg-name="VTC5 HD" tvg-logo="https://i.imgur.com/w18H0gU.jpg" group-title="VTC", VTC5 Giải trí tổng Hợp
-https://livecdn.fptplay.net:443/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="vtc6" tvg-name="VTC6 HD" tvg-logo="https://i.imgur.com/YasRGy0.png" group-title="VTC", VTC6 Kênh phim truyện
-https://livecdn.fptplay.net:443/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="vtc7_today_tv" tvg-name="vtc7hd" tvg-logo="https://i.imgur.com/lW2DbEB.png" group-title="VTC", VTC7 TodayTV
-https://livecdn.fptplay.net:443/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="vtc8" tvg-name="vtc8hd" tvg-logo="https://i.imgur.com/FVM7co8.jpg" group-title="VTC", VTC8 Kinh tế-Tài chính
-https://livecdn.fptplay.net:443/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="vtc9_lets_viet" tvg-name="vtc9hd" tvg-logo="https://i.imgur.com/UOIPXAr.png" group-title="VTC", VTC9 Văn hoá-Giải trí
 https://livecdn.fptplay.net:443/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="vtc10" tvg-name="vtc10hd" tvg-logo="https://i.imgur.com/gyKnxEP.png" group-title="VTC", VTC10 Văn hoá việt
@@ -67,9 +71,9 @@ https://livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="VTC12-ClipTV" tvg-name="vtc12hd" tvg-logo="https://i.imgur.com/OHzugWa.jpg" group-title="VTC", VTC12 Giải trí Hàn Quốc
 https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="vtc13" tvg-name="vtc13hd" tvg-logo="https://i.imgur.com/hLQNEhy.png" group-title="VTC", VTC13 Âm nhạc
-https://livecdn.fptplay.net:443/sda/vtvhomeshopping_1000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="VTC14-ClipTV" tvg-name="vtc14hd" tvg-logo="https://i.imgur.com/85swmKd.png" group-title="VTC", VTC14 Thời tiết-Tin Tức
-https://livecdn.fptplay.net:443/sdc/vtc14_hls.smil/chunklist_b2800000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="VTC16-ClipTV" tvg-name="vtc16hd" tvg-logo="https://i.imgur.com/amaDGnw.jpg" group-title="VTC", VTC16 Nông nghiệp-Nông Thôn
 https://livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="sctv1" tvg-name="SCTV1" tvg-logo="https://lh3.googleusercontent.com/-JCUydBScx5M/VpxAqhUrUYI/AAAAAAAAAQs/i6yW7b2YA5k/h120/sctv1.png" group-title="SCTV", SCTV1 HD - Hài
@@ -139,43 +143,45 @@ https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="HTV9-ClipTV" tvg-name="HTV9 HD" tvg-logo="https://lh3.googleusercontent.com/-t9EkbjC6IGw/VpxAhVGPyvI/AAAAAAAAANk/CGPKLqKcsZ4/h120/htv9.png" group-title="HTVC", HTV9 HD
 https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="THVL1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/d/d2/THVL_Logo.png/130px-THVL_Logo.png" group-title="HTVC", THVL1 HD
-https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="THVL2 HD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/e/eb/THVL2.png/revision/latest/scale-to-width-down/985?cb=20200308130957&path-prefix=vi" group-title="HTVC", THVL2 HD
-https://livecdn.fptplay.net/sdb/vinhlong2_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="THVL3HD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/a/ac/THVL3.png/revision/latest/scale-to-width-down/340?cb=20200608145913&path-prefix=vi" group-title="HTVC", THVL3 HD
-https://livecdn.fptplay.net/hda/vinhlong3_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="THVL4 HD" tvg-logo="https://vignette.wikia.nocookie.net/logos/images/0/06/THVL4_HD.png/revision/latest/scale-to-width-down/985?cb=20200608150139&path-prefix=vi" group-title="HTVC", THVL4 HD
-https://livecdn.fptplay.net/hda/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="HTVC THUAN VIET HD" tvg-logo="https://lh3.googleusercontent.com/-oqNHnx9J_Fg/VpxAj5NN6OI/AAAAAAAAAOM/FL-6rR5-qQs/h120/htvthuanviet.png" group-title="HTVC", HTVC Thuần Việt
-https://livecdn.fptplay.net/sdb/htvcthuanviet_hls.smil/chunklist_b2500000.m3u
+https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="HTVC THUAN VIET HD" tvg-logo="https://lh3.googleusercontent.com/-oqNHnx9J_Fg/VpxAj5NN6OI/AAAAAAAAAOM/FL-6rR5-qQs/h120/htvthuanviet.png" group-title="HTVC", HTVC Thuần Việt HD
 https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="HTVC PHU NU HD" tvg-logo="https://i.imgur.com/HRNmZdU.png" group-title="HTVC", HTVC Phụ Nữ
-https://livecdn.fptplay.net:443/hda/htvcphunu_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/pAqskAN.png" group-title="HTVC", HTVC Phim HD
 https://vips-livecdn.fptplay.net/hda2/htvcmoviehd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-logo="https://lh3.googleusercontent.com/-2pXIrXYBFu8/VpxAhplRRnI/AAAAAAAAANw/8ounGrKt0aw/h120/htvcanhac.png" group-title="HTVC", HTVC Ca Nhạc
-https://livecdn.fptplay.net:443/sdb/htvcmusic_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcmusic_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="HTVC DU LICH CUOC SONG" tvg-logo="https://lh3.googleusercontent.com/-G9mQcv7J7Kc/VpxAh8Rb65I/AAAAAAAAANs/xdMi4n-ARNs/h120/htvdulich.png" group-title="HTVC", HTVC Du Lịch & Cuộc Sống
-https://livecdn.fptplay.net:443/hda/htvcdulich_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://imgstatic.vtvcab.vn/logos/HC3_M.png" group-title="HTVC", HTVC Gia Đình HD
-https://livecdn.fptplay.net:443/hda/htvcgiadinh_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="HTV THE THAO1" tvg-logo="https://imgstatic.vtvcab.vn/logos/HC2_M.png" group-title="HTVC", HTVC Thể Thao HD
 https://livecdn.fptplay.net:443/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png" group-title="HTVC", HTVC Plus
-https://livecdn.fptplay.net:443/sdb/htvcplus_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="ANTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/18/Antv_2006.svg" group-title="VIỆT NAM", ANTV
 https://livecdn.fptplay.net/sdc/anninhtv_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="nhan_dan_tv" tvg-logo="https://img.nhandantv.vn//data/img/09-08-2020-21-52-39-1666335887-logo-loginpng.png" group-title="VIỆT NAM", Nhân Dân TV
 https://livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="QUOC PHONG VIET NAM HD" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/5/5d/QPVN.png/120px-QPVN.png" group-title="VIỆT NAM", QPVN
-https://livecdn.fptplay.net/sdc/quocphongvnhd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="QUOC HOI" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/1/17/KenhQuocHoi_logo.png/80px-KenhQuocHoi_logo.png" group-title="VIỆT NAM", Quốc Hội
-https://livecdn.fptplay.net/sdc/quochoivn_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/2/22/Vietnamnet-Logo.png/190px-Vietnamnet-Logo.png" group-title="VIỆT NAM", Vietnamnet
 https://livecdn.fptplay.net/sda/vietnamnet_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="ttxvn" tvg-logo="https://lh3.googleusercontent.com/-Q3ngRTLYloY/VpxAyJvBTtI/AAAAAAAAAT8/25mWx1DiIs0/h120/ttxvn.png" group-title="VIỆT NAM", VNEWS
-https://livecdn.fptplay.net/sda/ttxvn_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/ttxvn_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-id="ttxvn" tvg-logo="https://static.mediacdn.vn/vovTV/web_images/logovov02112020_nobg.png" group-title="VIỆT NAM", VOV TV
+https://livecdn.fptplay.net/sdc/vovtvsd_2000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-id="vtvcab1_giai_tri_tv" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d8/VCTV1_old_and_VTVCab_1_-_Gi%E1%BA%A3i_Tr%C3%AD_TV_%282013-2016%29.png/revision/latest/scale-to-width-down/340?cb=20191018085426" group-title="VTVcab", VTVcab1 - Vie Giải Trí
 https://vtsstr1.tv24.vn/live/_definst_/VTVcab1_SD_4/chunklist_b2692000.m3u8
 #EXTINF: -1 tvg-id="VTVcab 2 - Phim Việt" tvg-logo="https://vtvcabtaidanang.com/wp-content/uploads/2017/05/vtvcab2-phim-vi%E1%BB%87t.png" group-title="VTVcab", VTVcab2 - Phim Việt
@@ -231,7 +237,7 @@ http://171.241.71.220:8381/udp/225.1.1.73:30120
 #EXTINF: -1 tvg-id="K+PC-HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/59/K%2BPC_HD.png" group-title="K+", K+PC HD (DRM)
 http://171.241.71.220:8381/udp/225.1.1.77:30120
 #EXTINF: -1 tvg-id="HBO_tv24" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/67/HBO_New_Logo.png" group-title="HBO", HBO HD
-http://171.241.71.220:8381/udp/225.1.2.233:30120
+https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="red_by_hbo" tvg-logo="https://imgur.com/tLRt17t.png" group-title="HBO", Red By HBO HD
 http://171.241.71.220:8381/udp/225.1.1.93:30120
 #EXTINF: -1 tvg-id="Max By HBO" tvg-logo="https://imgur.com/76pIxyD.png" group-title="HBO", Max By HBO HD
@@ -241,19 +247,21 @@ https://livecdn.fptplay.net/foxlive/channelvhd_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="ABC AUSTRALIA" tvg-logo="https://www.pngfind.com/pngs/m/258-2582008_no-logo-abc-australia-logo-png-transparent-png.png" group-title="WORLD TV", ABC Australia Giải trí giáo dục
 https://livecdn.fptplay.net/qnetlive/australiaplus_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="Animal Planet-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/190px-2018_Animal_Planet_logo.svg.png" group-title="WORLD TV", Animal Planet Thế giới động vật
-https://livecdn.fptplay.net/qnetlive/animalplanet_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="Cinemax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Animax_logo.svg/1200px-Animax_logo.svg.png" group-title="WORLD TV", ANIMAX
-https://livecdn.fptplay.net/hda3/animaxport_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="arirang" tvg-name="Arirang" tvg-logo="https://imgstatic.vtvcab.vn/logos/ARI_M.png" group-title="WORLD TV", Arirang Quốc tế Hàn Quốc
 https://livecdn.fptplay.net/world/arirang_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="Asian Food Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Asian_Food_Network.svg/440px-Asian_Food_Network.svg.png" group-title="WORLD TV", Asian Food Channel
 https://vips-livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="axnhd" tvg-logo="https://lh3.googleusercontent.com/-CzUdn4q8S-I/W2mrcJlvZfI/AAAAAAAAESg/7BNWQGWjrlInPJ830KKWuv4mAlvz5-aVgCLcBGAs/h120/axnvip-min.png" group-title="WORLD TV", AXN Giải trí quốc tế
-https://livecdn.fptplay.net/qnetlive/axnhd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="Baby TV HD-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="WORLD TV", Baby First
-https://livecdn.fptplay.net/qnetlive/babyfirst_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF: -1 tvg-id="Baby TV HD-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="WORLD TV", 𝐵𝑎𝑏𝑦 𝑇𝑉
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist.m3u8
 #EXTINF: -1 tvg-id="BBC EARTH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BBC_Earth_logo.png/200px-BBC_Earth_logo.png" group-title="WORLD TV", BBC Earth Thế giới Thiên nhiên
-https://livecdn.fptplay.net/qnetlive/bbcearth_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/bbcearth_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="BBC LIFESTYLE" tvg-logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bbc-lifestyle_148379742953.jpg" group-title="WORLD TV", BBC Lifestyle Ý tưởng cuộc sống
 https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-id="BBC World News" tvg-name="BBC WORLD NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BBC_World_News_2019.svg/150px-BBC_World_News_2019.svg.png" group-title="WORLD TV", BBC World News
@@ -265,21 +273,23 @@ https://vips-livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png" group-title="WORLD TV", Blue Ant Extreme
 https://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="Boomerang" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="WORLD TV", Boomerang Giải trí Thiếu nhi
-https://livecdn.fptplay.net/qnetlive/boomerang_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="cartoonhd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png" group-title="WORLD TV", Cartoon Network Hoạt hình-Trẻ em
 https://livecdn.fptplay.net/hda3/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/u4LU3iR.png" group-title="WORLD TV", 𝐶𝐵𝑒𝑒𝑏𝑖𝑒𝑠
+https://livecdn.fptplay.net/hda3/cbeebies_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Channel_NewsAsia_logo_%28shape_only%29.svg/440px-Channel_NewsAsia_logo_%28shape_only%29.svg.png" group-title="WORLD TV", Channel NewsAsia
 https://livecdn.fptplay.net/world/newsasia_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="CINEMA WORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/de/Cineworld.svg/440px-Cineworld.svg.png" group-title="WORLD TV", Cinema World Điện ảnh Quốc tế
-https://livecdn.fptplay.net/qnetlive/cinemawork_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="CNN-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/200px-CNN.svg.png" group-title="WORLD TV", CNN Tin tức Quốc tế
 https://livecdn.fptplay.net/qnetlive/cnn_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="davinci" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Da_Vinci_Kids_logo.svg/440px-Da_Vinci_Kids_logo.svg.png" group-title="WORLD TV", Da Vinci Kho tàng giáo dục
 https://vips-livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="Discovery Asia-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg" group-title="WORLD TV", Discovery Asia Khoa học Công nghệ
-https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="discoveryhd" tvg-logo="https://htvc.vn/uploads/editor/images/Logo%20Discovery-Asia%201.png" group-title="WORLD TV", Discovery Khoa học công nghệ
-https://livecdn.fptplay.net/qnetlive/discovery_hls.smil/chunklist_b2500000.m3u8
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="dw" tvg-name="DW" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/220px-Deutsche_Welle_Logo.svg.png" group-title="WORLD TV", DW Kênh Quốc gia Đức
 https://vips-livecdn.fptplay.net/hda2/dwenglish_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="FASHION TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Fashion_TV_Channel_logo.svg/180px-Fashion_TV_Channel_logo.svg.png" group-title="WORLD TV", Fashion TV Thời trang Quốc tế
@@ -305,7 +315,7 @@ https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="kix_hd" tvg-name="KIX HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/300px-KIX_logo.svg.png" group-title="WORLD TV", KIX HD Hành động-Giải trí
 https://vips-livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="National Geographic HD-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/National_Geographic_Channel.svg/640px-National_Geographic_Channel.svg.png" group-title="WORLD TV", National Geographic HD Khoa học-Khám phá
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="NHK World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/NHK_World.svg/440px-NHK_World.svg.png" group-title="WORLD TV", NHK World Japan
 https://vips-livecdn.fptplay.net/hda2/nhkworld_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="outdoor_channel" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/eb/Outdoor_Channel_2017.png" group-title="WORLD TV", Outdoor Channel Giải Trí tổng hợp
@@ -315,7 +325,7 @@ https://livecdn.fptplay.net/qnetlive/travelliving_hls.smil/chunklist_b2500000.m3
 #EXTINF: -1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TV5Monde_Logo.svg/400px-TV5Monde_Logo.svg.png" group-title="WORLD TV", TV5 Monde Tin tức-Tổng Hợp
 https://livecdn.fptplay.net/world/tv5_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="warner_tv_hd" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/150px-Warner2018LA.png" group-title="WORLD TV", WBTV Phim mỹ-Hãng WARNER BROS
-https://livecdn.fptplay.net/qnetlive/warnertv_hls.smil/chunklist_b2500000.m3u8
+http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/5/57/ATV_An_Giang.png/revision/latest/scale-to-width-down/340?cb=20200611111200&path-prefix=vi" group-title="TH ĐỊA PHƯƠNG", An Giang
 https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
 #EXTINF: -1 tvg-logo="http://bacgiangtv.vn/templates/frontend/bgtv/Assets/img/logo.png" group-title="TH ĐỊA PHƯƠNG", Bắc Giang
@@ -430,3 +440,49 @@ https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
 https://livecdn.fptplay.net/sdc/bariavungtau_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-logo="https://mytv.com.vn/upload/channel/211.png" group-title="TH ĐỊA PHƯƠNG", Yên Bái
 https://livecdn.fptplay.net/sdc/yenbai_hls.smil/chunklist_b2500000.m3u8
+
+# 📻 RADIO
+
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="http://binhdinhtv.vn/assets/phat-thanh/radio-binhdinh.jpg",FM Bình Định
+http://27.72.1.105/hls/phatthanh.m3u8
+
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov1_2.png", VOV1
+https://str.vov.gov.vn/vovlive/vov1vov5Vietnamese.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov2_2.png", VOV2
+https://str.vov.gov.vn/vovlive/vov2.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov3_2.png", VOV3
+https://str.vov.gov.vn/vovlive/vov3.sdp_aac/playlist.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Bắc
+http://media.kythuatvov.vn:1936/live/VOV4_TB.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 Tây Nguyên
+http://media.kythuatvov.vn:1936/live/VOV4_TN.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 ĐBSCL
+http://media.kythuatvov.vn:1936/live/VOV4_CT.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov4_2.png", VOV4 TPHCM
+http://media.kythuatvov.vn:1936/live/VOV4_HCM.sdp/chunklist.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png", VOV5
+https://api.vthanhtivii.xyz/v1/getlink/radio/vov5/channel5?t=a.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://media.vov.vn/sites/default/files/2020-12/vov5new_0.png", VOV5 24/7
+https://api.vthanhtivii.xyz/v1/getlink/radio/vov5/channel247?t=a.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="http://vovmedia.vn/upload/1609732598.png", VOV Giao thông Hà Nội
+https://str.vov.gov.vn/vovlive/vovGTHN.sdp_aac/chunklist_w601606653.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="http://vovmedia.vn/upload/1609732603.png", VOV Giao thông Hồ Chí Minh
+https://str.vov.gov.vn/vovlive/vovGTHCM.sdp_aac/chunklist_w1213978008.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="http://kythuatvov.vn/wp-content/uploads/2021/01/Logo-50.png", VOVGT Mekong
+https://str.vov.gov.vn/vovlive/vovgtMeKong.sdp_aac/chunklist_w1338501805.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="http://kythuatvov.vn/wp-content/uploads/2021/01/Logo-51.png", VOV Sức khỏe 89
+http://media.kythuatvov.vn:7021/;stream/
+
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png,qv=c5ebe624f737c3c2864964f833d1310d.pagespeed.ce.4kprPK4Lia.png", VOH FM 99.9Mhz
+https://strm.voh.com.vn/radio/channel3/chunklist_w1835283316.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png,qv=c5ebe624f737c3c2864964f833d1310d.pagespeed.ce.4kprPK4Lia.png", VOH FM 95.6Mhz
+https://strm.voh.com.vn/radio/channel1/chunklist_w1562624872.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png,qv=c5ebe624f737c3c2864964f833d1310d.pagespeed.ce.4kprPK4Lia.png", VOH FM 87.7Mhz
+https://strm.voh.com.vn/live/channel5/chunklist_w878901510.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://radio.voh.com.vn/assets/images/logo_v3.png,qv=c5ebe624f737c3c2864964f833d1310d.pagespeed.ce.4kprPK4Lia.png", VOH AM 610Khz
+https://strm.voh.com.vn/radio/channel2/chunklist_w843954138.m3u8
+
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://i.scdn.co/image/ab6765630000ba8afffb16233a17d320ccbadc1f", Hà Nội FM 90
+https://livept.hanoitv.vn/hntvRadio/fm90.sdp_aac/chunklist.m3u8
+#EXTINF:-1 group-title="📻 Radio Live" tvg-logo="https://i.scdn.co/image/ab6765630000ba8a6d69a91b8ab2e191454cdafd", Hà Nội FM 96
+https://livept.hanoitv.vn/hntvRadio/fm96.sdp_aac/chunklist.m3u8

@@ -87,7 +87,7 @@ http://112.197.12.54/hls/sctv4/sd2/index.m3u8
 #EXTINF: -1 tvg-id="SCTV5" tvg-logo="https://lh3.googleusercontent.com/-TpWA3edTbqs/VpxAt2dhKTI/AAAAAAAAASU/Nr5rUU8z26Y/h120/sctv5.png" group-title="SCTV", SCTV5 Shopping TV
 http://112.197.12.54/hls/sctv5/sd2/index.m3u8
 #EXTINF: -1 tvg-id="sctv6_hd" tvg-name="SCTV6 HD" tvg-logo="https://lh3.googleusercontent.com/-aRJdZbAiOQA/VpxAuVmP4fI/AAAAAAAAASk/LuG4KBWvhnQ/h120/sctv6.png" group-title="SCTV", SCTV6 HD - Thế Hệ Mới
-https://vtsstr6.tv24.vn/live/SCTV6HD_new.smil/chunklist_w923404910_b2692000.m3u8
+https://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="SCTV7 HD" tvg-name="SCTV7 HD" tvg-logo="https://lh3.googleusercontent.com/-SCFBwogpr2Y/VpxAuIsVb6I/AAAAAAAAASc/Yw5wPfeKj6Y/h120/sctv7.png" group-title="SCTV", SCTV7 HD - Sân Khấu
 https://vtsstr6.tv24.vn/live/SCTV_HD_SanKhau_new.smil/chunklist_w580287477_b2692000.m3u8
 #EXTINF: -1 tvg-id="sctv8" tvg-logo="https://lh3.googleusercontent.com/-UXe14uvM6eA/VpxAuT-C_vI/AAAAAAAAASo/d0m-l9-jUtQ/h120/sctv8.png" group-title="SCTV", SCTV8 HD - Sân Khấu
@@ -111,7 +111,7 @@ http://s4live.tv1asia.com:21585/sctvpth/index.m3u8
 #EXTINF: -1 tvg-id="sctv17_hd" tvg-name="SCTV17 - S Sport" tvg-logo="https://lh3.googleusercontent.com/-1cePPjxOx40/WsixUsnhzZI/AAAAAAAAD8U/bp7wsLVy9p4nqE1EJQ2Y88p0POTA-zlrQCEwYBhgL/w140-h78-p/s17.png" group-title="SCTV", SCTV17 S SPORTS
 http://112.197.12.58/hls/sctv17/sd2/index.m3u8
 #EXTINF: -1 tvg-id="sctv18_hd_kenh_18" tvg-name="SCTV18 - KÊNH 18" tvg-logo="https://rsstv.gviet.vn/sctv/157/645/1566445843766.png" group-title="SCTV", SCTV18
-http://112.197.12.58/hls/sctv18/sd2/index.m3u8
+https://vtsstr6.tv24.vn/live/SCTV18_HD_new.smil/chunklist_w1783799855_b2692000.m3u8
 #EXTINF: -1 tvg-id="SCTV19" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV19HD.png" group-title="SCTV", SCTV19 HD - Channel T
 http://mikc.vacovska.cf:1935/live/SCTV19_HD_new.smil/playlist.m3u8
 #EXTINF: -1 tvg-id="SCTV20" tvg-logo="https://www.sctv.com.vn/Media/KenhPhai/SCTV20HD.png" group-title="SCTV", SCTV20 HD - Ca Nhạc

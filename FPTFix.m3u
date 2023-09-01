@@ -11,9 +11,9 @@ https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 #EXTINF: -1 tvg-id="VTV4-VTV" tvg-name="VTV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" group-title="VTV", VTV4 HD Đối ngoại Quốc gia
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="VTV5-VTV" tvg-name="VTV5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" group-title="VTV", VTV5 HD Dân tộc thiểu số
-https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
 #EXTINF: -1 tvg-id="VTV6-VTV" tvg-name="VTV6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png" group-title="VTV", VTV6 HD Thanh thiếu niên
-https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF: -1 tvg-id="vtv7hd" tvg-name="VTV7 HD-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png" group-title="VTV", VTV7 HD Giáo dục quốc gia
 https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="VTV8-VTV" tvg-name="VTV8 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/VTV8_logo_2016_final.svg/685px-VTV8_logo_2016_final.svg.png" group-title="VTV", VTV8 HD Miền Trung - Tây Nguyên
@@ -47,23 +47,23 @@ https://live2cdn.todayplus.com.vn/sdb/smil:hitv.smil/chunklist_b1596000.m3u8
 #EXTINF: -1 tvg-id="hanoitv1" tvg-logo="http://youtv.vn/images/logo.png" group-title="TH Hà Nội", HANOICab2 YouTV 
 https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b1200000.m3u8
 #EXTINF: -1 tvg-id="VTC1-ClipTV" tvg-name="VTC1 HD" tvg-logo="https://i.imgur.com/4Uljs81.png" group-title="VTC", VTC1 Kênh tổng Hợp
-https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+https://live-zlr1.tv360.vn/manifest/VTC1_HD/playlist_1080p.m3u8
 #EXTINF: -1 tvg-id="vtc2" tvg-name="VTC2 HD" tvg-logo="https://i.imgur.com/80JNlos.png" group-title="VTC", VTC2 Công nghệ-Truyền thông
-https://livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+https://1117141481.vnns.net/VTC2/chunks.m3u8
 #EXTINF: -1 tvg-id="VTC3HD-ClipTV" tvg-name="VTC3 HD" tvg-logo="http://sohanews.sohacdn.com/thumb_w/660/2018/8/22/photo1534926118469-15349261184691509134866.png" group-title="VTC", VTC3 Thể thao
-https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+https://live-zlr1.tv360.vn/manifest/VTC3_HD/playlist_1080p.m3u8
 #EXTINF: -1 tvg-id="vtc4_yeah1_family" tvg-name="VTC4 HD" tvg-logo="https://i.imgur.com/v9DNS85.png" group-title="VTC", VTC4 Yeah1 !  Family
-https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+https://1117141481.vnns.net/VTC4/chunks.m3u8
 #EXTINF: -1 tvg-id="VTC5-ClipTV" tvg-name="VTC5 HD" tvg-logo="https://i.imgur.com/w18H0gU.jpg" group-title="VTC", VTC5 Giải trí tổng Hợp
-https://livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+https://1117141481.vnns.net/VTC5/chunks.m3u8
 #EXTINF: -1 tvg-id="vtc6" tvg-name="VTC6 HD" tvg-logo="https://i.imgur.com/YasRGy0.png" group-title="VTC", VTC6 Kênh phim truyện
-https://livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+https://1117141481.vnns.net/VTC6/chunks.m3u8
 #EXTINF: -1 tvg-id="vtc7_today_tv" tvg-name="vtc7hd" tvg-logo="https://i.imgur.com/lW2DbEB.png" group-title="VTC", VTC7 TodayTV
-https://livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+http://s4.nihontv.net:21585/vtc7/tracks-v1a1/mono.m3u8
 #EXTINF: -1 tvg-id="vtc8" tvg-name="vtc8hd" tvg-logo="https://i.imgur.com/FVM7co8.jpg" group-title="VTC", VTC8 Kinh tế-Tài chính
 https://livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="vtc9_lets_viet" tvg-name="vtc9hd" tvg-logo="https://i.imgur.com/UOIPXAr.png" group-title="VTC", VTC9 Văn hoá-Giải trí
-https://livecdn.fptplay.net:443/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+https://1117141481.vnns.net/VTC9/chunks.m3u8
 #EXTINF: -1 tvg-id="vtc10" tvg-name="vtc10hd" tvg-logo="https://i.imgur.com/gyKnxEP.png" group-title="VTC", VTC10 Văn hoá việt
 https://livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
 #EXTINF: -1 tvg-id="vtc11_kids_tv" tvg-name="vtc11hd" tvg-logo="https://i.imgur.com/liNUOk4.jpg" group-title="VTC", VTC11 Kids & Family

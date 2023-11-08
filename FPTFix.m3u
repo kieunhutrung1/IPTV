@@ -7,11 +7,11 @@ https://live-ali2.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8?timestamp=169946
 #EXTINF: -1 tvg-id="VTV2-VTV" tvg-name="VTV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png" group-title="VTV", VTV2 HD Kênh Khoa Học-Giáo Dục
 https://live-ali2.tv360.vn/manifest/vtv2/playlist_1080p.m3u8?timestamp=1699463265&token=6a045512bd503929b655126c97788ea7&uid=25173
 #EXTINF: -1 tvg-id="VTV3-VTV" tvg-name="VTV3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png" group-title="VTV", VTV3 HD Giải trí tổng hợp
-https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
+https://live-ali2.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8?timestamp=1699463511&token=bdfbfaff1b1a5efa606231fdae9552ac&uid=25173
 #EXTINF: -1 tvg-id="VTV4-VTV" tvg-name="VTV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" group-title="VTV", VTV4 HD Đối ngoại Quốc gia
 https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF: -1 tvg-id="VTV5-VTV" tvg-name="VTV5 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VTV5_logo_2013_final.svg/1200px-VTV5_logo_2013_final.svg.png" group-title="VTV", VTV5 HD Dân tộc thiểu số
-https://live-ali2.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-65M.m3u8
+https://live-zlr1.tv360.vn/manifest/VTV5_HD_50fps/playlist_VTV5-HD-50fps-1080P-5M.m3u8?timestamp=1699463562&token=a2affb095cc1071301b832081c65b4f1&uid=25173
 #EXTINF: -1 tvg-id="VTV6-VTV" tvg-name="VTV6 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/VTV6_logo_2013_final.svg/1200px-VTV6_logo_2013_final.svg.png" group-title="VTV", VTV6 HD Thanh thiếu niên
 http://live.tv360.vn/manifest/VTV6_HD/playlist_720p.m3u8
 #EXTINF: -1 tvg-id="vtv7hd" tvg-name="VTV7 HD-ClipTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/VTV7_logo_2016_final.svg/1200px-VTV7_logo_2016_final.svg.png" group-title="VTV", VTV7 HD Giáo dục quốc gia

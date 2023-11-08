@@ -3,9 +3,9 @@
 #EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=1
 
 #EXTINF: -1 tvg-id="VTV1-VTV" tvg-name="VTV1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png" group-title="VTV", VTV1 HD Kênh Thời Sự
-https://vips-livecdn.fptplay.net/MTEwNjc0NTR8dnR2MWhkX3ZobHMuc21pbHxmcHR8MTY5MzU2NzIyNHwxMDAuMTExLjEwMS41MHw1OGMyNzYyNDc1ZDg1ZDFlMGY4NzBjZjZhYTU0OWNlOQ/fnxhd1/vtv1hd_vhls.smil/playlist.m3u8
+https://live-zlr1.tv360.vn/manifest/VTV1_HD/playlist_1080p.m3u8
 #EXTINF: -1 tvg-id="VTV2-VTV" tvg-name="VTV2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/VTV2_logo_2013_final.svg/1200px-VTV2_logo_2013_final.svg.png" group-title="VTV", VTV2 HD Kênh Khoa Học-Giáo Dục
-https://live-zlr1.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
+https://live-ali2.tv360.vn/manifest/vtv2/playlist_1080p.m3u8
 #EXTINF: -1 tvg-id="VTV3-VTV" tvg-name="VTV3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png" group-title="VTV", VTV3 HD Giải trí tổng hợp
 https://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-5M.m3u8
 #EXTINF: -1 tvg-id="VTV4-VTV" tvg-name="VTV4 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/VTV4_logo_2013_final.svg/1200px-VTV4_logo_2013_final.svg.png" group-title="VTV", VTV4 HD Đối ngoại Quốc gia
